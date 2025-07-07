@@ -42,4 +42,4 @@ Built an interactive dashboard using sales data from 2019 and 2020. Conducted ti
 
 📷 Demo/Screenshot
 
-[Dashboard Previw](https://github.com/divyabadwal/Sales-Dashboard-Power-BI/blob/main/Sales%20Dashboard.png)
+![Dashboard Previw].(https://github.com/divyabadwal/Sales-Dashboard-Power-BI/blob/main/Sales%20Dashboard.png)
