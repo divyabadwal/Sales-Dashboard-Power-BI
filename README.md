@@ -1,5 +1,5 @@
 # Sales-Dashboard-Power-BI  
-##📊 Power BI Sales Dashboard  
+📊 Power BI Sales Dashboard  
 Built an interactive dashboard using sales data from 2019 and 2020. Conducted time series analysis to identify trends, seasonality, and revenue-driving categories. Designed visuals (bar charts, line graphs, slicers) to support decision-making for marketing and product strategy.  
   
   
