@@ -1,5 +1,5 @@
 # Sales-Dashboard-Power-BI  
-📊 Power BI Sales Dashboard  
+#📊 Power BI Sales Dashboard  
 Built an interactive dashboard using sales data from 2019 and 2020. Conducted time series analysis to identify trends, seasonality, and revenue-driving categories. Designed visuals (bar charts, line graphs, slicers) to support decision-making for marketing and product strategy.  
   
   
@@ -19,7 +19,7 @@ Built an interactive dashboard using sales data from 2019 and 2020. Conducted ti
   
 📂 Key Features of the Dashboard  
 ● KPI Cards: Display total sales, profit, profit margin, and total quantity sold  
-● Sales Trend Line Chart: Visualizes monthly or quarterly sales performance 
+● Sales Trend Line Chart: Visualizes monthly or quarterly sales performance  
 ● Top Products Table: Ranks best-selling products by revenue or quantity  
 ● Region-wise Performance Map/Bar Chart: Compares how different locations performed  
 ● Filters/Slicers: Interactive controls for selecting date range, product category, or region  
